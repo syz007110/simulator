@@ -30,3 +30,7 @@ Thumbs.db
 
 # Docs (Obsidian vault — not code)
 docs/
+
+# claude 
+.claude/
+CLAUDE.md
