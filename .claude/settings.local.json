@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv .obsidian docs/)",
+      "Bash(rm \"Project progress.md\" Reference.md)"
+    ]
+  }
+}
